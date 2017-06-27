@@ -1,5 +1,9 @@
 # Javascript Racer 1 Front End
 
+COMPLETED GAME: https://sam-javascript-racer.herokuapp.com/board
+
+
+
 ## Learning Competencies
 
 * Define [jQuery][] callback events
@@ -9,5 +13,4 @@
 * Write OO-JavaScript
 
 
-COMPLETED GAME: https://sam-javascript-racer.herokuapp.com/board
 
